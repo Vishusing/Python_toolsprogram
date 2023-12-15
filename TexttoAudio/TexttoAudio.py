@@ -34,8 +34,8 @@ if not os.path.exists(file_path):
   exit()
 
 # Read and speak the file
-read_and_speak(file_path)
-
+read_and_speak(file_path)  
+ 
 print("Done!")
 
 # Release engine resources
